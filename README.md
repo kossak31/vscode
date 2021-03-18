@@ -15,7 +15,7 @@ windows:
 ## remove comments
 <kbd>ctrl</kbd> + <kbd>k</kbd> <kbd>c</kbd>
 
-
+## text indentation
 <kbd>ctrl</kbd> + <kbd>shift</kbd> <kbd>i</kbd>
 
 <kbd>ctrl</kbd> + <kbd>shift</kbd> <kbd>f</kbd>
